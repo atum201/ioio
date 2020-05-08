@@ -1,0 +1,14 @@
+D:\7.WorkSpace\3.CSharp\ioio\ioio\bin\Debug\ioio.exe.config
+D:\7.WorkSpace\3.CSharp\ioio\ioio\bin\Debug\ioio.exe
+D:\7.WorkSpace\3.CSharp\ioio\ioio\bin\Debug\ioio.pdb
+D:\7.WorkSpace\3.CSharp\ioio\ioio\obj\Debug\ioio.csprojAssemblyReference.cache
+D:\7.WorkSpace\3.CSharp\ioio\ioio\obj\Debug\MainWindow.g.cs
+D:\7.WorkSpace\3.CSharp\ioio\ioio\obj\Debug\App.g.cs
+D:\7.WorkSpace\3.CSharp\ioio\ioio\obj\Debug\ioio_MarkupCompile.cache
+D:\7.WorkSpace\3.CSharp\ioio\ioio\obj\Debug\ioio_MarkupCompile.lref
+D:\7.WorkSpace\3.CSharp\ioio\ioio\obj\Debug\MainWindow.baml
+D:\7.WorkSpace\3.CSharp\ioio\ioio\obj\Debug\ioio.g.resources
+D:\7.WorkSpace\3.CSharp\ioio\ioio\obj\Debug\ioio.Properties.Resources.resources
+D:\7.WorkSpace\3.CSharp\ioio\ioio\obj\Debug\ioio.csproj.GenerateResource.cache
+D:\7.WorkSpace\3.CSharp\ioio\ioio\obj\Debug\ioio.exe
+D:\7.WorkSpace\3.CSharp\ioio\ioio\obj\Debug\ioio.pdb
